@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Main">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Hacks">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Menu">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Hacks\ESP">
+      <UniqueIdentifier>{568c0114-fa75-42c6-a684-1858c994b681}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hacks\Var">
+      <UniqueIdentifier>{ed4e9975-02fc-4664-8b8b-79592c55ecb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Hacks\Main">
+      <UniqueIdentifier>{ccdcec7e-6abb-4057-ad54-782569b9dc02}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Headers.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Hook.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Xor.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="HWID.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyPress.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="ESP.h">
+      <Filter>Hacks\ESP</Filter>
+    </ClInclude>
+    <ClInclude Include="ESPDraw.h">
+      <Filter>Hacks\ESP</Filter>
+    </ClInclude>
+    <ClInclude Include="Setting.h">
+      <Filter>Hacks\Var</Filter>
+    </ClInclude>
+    <ClInclude Include="Class.h">
+      <Filter>Hacks\Var</Filter>
+    </ClInclude>
+    <ClInclude Include="AutoLogger.h">
+      <Filter>Hacks\Var</Filter>
+    </ClInclude>
+    <ClInclude Include="Aimbot.h">
+      <Filter>Hacks\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Functions.h">
+      <Filter>Hacks\Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Stride.h">
+      <Filter>Main</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

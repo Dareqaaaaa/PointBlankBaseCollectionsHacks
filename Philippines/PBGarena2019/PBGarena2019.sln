@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PBGarena2019", "PBGarena2019\PBGarena2019.vcxproj", "{DAF0E53E-1D0D-44C6-8E3C-11D6758CFC76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAF0E53E-1D0D-44C6-8E3C-11D6758CFC76}.Debug|x64.ActiveCfg = Debug|x64
+		{DAF0E53E-1D0D-44C6-8E3C-11D6758CFC76}.Debug|x64.Build.0 = Debug|x64
+		{DAF0E53E-1D0D-44C6-8E3C-11D6758CFC76}.Debug|x86.ActiveCfg = Debug|Win32
+		{DAF0E53E-1D0D-44C6-8E3C-11D6758CFC76}.Debug|x86.Build.0 = Debug|Win32
+		{DAF0E53E-1D0D-44C6-8E3C-11D6758CFC76}.Release|x64.ActiveCfg = Release|x64
+		{DAF0E53E-1D0D-44C6-8E3C-11D6758CFC76}.Release|x64.Build.0 = Release|x64
+		{DAF0E53E-1D0D-44C6-8E3C-11D6758CFC76}.Release|x86.ActiveCfg = Release|Win32
+		{DAF0E53E-1D0D-44C6-8E3C-11D6758CFC76}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48FE7C90-E0BB-4488-9C24-1926D3F6E596}
+	EndGlobalSection
+EndGlobal

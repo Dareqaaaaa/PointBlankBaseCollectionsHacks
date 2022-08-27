@@ -1,0 +1,8 @@
+LIBRARY AgPerfMon.dll
+EXPORTS
+
+AgPmCreateSourceConnection = AgPmDestroySourceConnection
+AgPmRegisterEvent = AgPmRegisterEvent
+AgPmSubmitEvent = AgPmSubmitEvent
+AgPmEventEnabled = AgPmEventEnabled
+AgPmEventLoggingEnabled = AgPmEventLoggingEnabled
